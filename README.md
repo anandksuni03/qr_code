@@ -2,7 +2,7 @@
 
 <h2>---FOR SETUP---</h2>
 
-step 1: type " pip install -r .\reqirements.txt " in your terminal <br>
+step 1: type " pip install -r .\reqirements.txt " in your terminal 
          it will install the necessary python modules for the program<br>
 step 2: run the program<br>
 step 3: Enter the file name with png<br>
